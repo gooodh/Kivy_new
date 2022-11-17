@@ -8,7 +8,7 @@ from random import randint
 from kivy.uix.textinput import TextInput
 
 Window.size = (250, 200)
-Window.clearcolor = (255 / 255, 70 / 255, 3 / 255, 1)
+Window.clearcolor = (100 / 255, 0 / 255, 0 / 255, 1)
 Window.title = 'Конвертер'
 
 
